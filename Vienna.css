@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom: 2rem;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 3rem;
+    margin-bottom: 2rem;
+}
+
+body {
+    margin: 0;
+    font-family: Baumans, sans-serif;
+}
+
+.autumn {
+    background-color: #bd411d;
+    color: #1d1c1a;
+}
+
+.spring {
+    background-color: #607e4c;
+    color: #1d1c1a;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
