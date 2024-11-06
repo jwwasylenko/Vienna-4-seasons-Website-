@@ -9,6 +9,12 @@ header {
     margin-bottom: 2rem;
 }
 
+h1 {
+    color: #ffffff;
+    text-shadow: -4px, -9px, 7px #CCBE99;
+
+}
+
 body {
     margin: 0;
     font-family: Baumans, sans-serif;
@@ -17,12 +23,44 @@ body {
 .autumn {
     background-color: #bd411d;
     color: #1d1c1a;
+
+h1 {
+    color: #bd411d;
+
+}
 }
 
 .spring {
+    background-color: #DA887c;
+    color: #1d1c1a;
+h1{
+    color:#DA887c
+}
+}
+
+
+
+.summer {
     background-color: #607e4c;
     color: #1d1c1a;
+h1{
+        color:#607e4c
+    }
 }
+
+.winter {
+    background-color: #4278AF;
+    color: #1d1c1a;
+    h1{
+        color:#4278AF;
+    }
+}
+
+#banner {
+    width: 712px;
+    height: 400px;
+}
+
 * {
     box-sizing: border-box;
 }
